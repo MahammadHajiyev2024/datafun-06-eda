@@ -23,3 +23,11 @@ py -m venv .venv
 py -m pip install -r requirements.txt
 
 ```
+
+## Document Your Data Set
+
+I will use tips.csv dataset and the link can be found here: https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
+
+
+
+
