@@ -11,3 +11,15 @@ git clone url address
 ```
 
 ## Created venv and .gitignore
+
+```
+py -m venv .venv
+.venv\Scripts\Activate
+
+```
+## Installed dependencies
+
+```
+py -m pip install -r requirements.txt
+
+```
