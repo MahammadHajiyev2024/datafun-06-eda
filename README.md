@@ -28,6 +28,7 @@ py -m pip install -r requirements.txt
 
 I will use tips.csv dataset and the link can be found here: https://github.com/mwaskom/seaborn-data/blob/master/tips.csv
 
-
+## Starting EDA and notebook
+Using ipynb, I created a notebook that helped me analyze the dataset mentioned above. I made few analysis on how tips are distributed among different affecting factors. 
 
 
